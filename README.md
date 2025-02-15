@@ -5,6 +5,7 @@ ___
 - [dataset](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/input)
 
 ### 2. disease classification
+(download this image to see the text)
 ![figure](disease/output.png)
 ___
 - [dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
