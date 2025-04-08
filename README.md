@@ -10,6 +10,11 @@ ___
 ___
 - [dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
 
+### 3. diabetes (binary) classification
+
+
+### 4. academic performance predictor
+
 
 # docs
 jupyter notebook commands:
