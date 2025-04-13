@@ -17,6 +17,7 @@ ___
 ### 3. diabetes (binary) classification
 > neural networks, logistic regression, regularization
 
+![figure](diabetes/output.png)
 ___
 - [dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set?resource=download)
 
@@ -24,13 +25,13 @@ ___
 ### 4. academic performance predictor
 > neural networks, linear regression
 
+![figure](student/output.png)
 ___
 - [dataset](https://archive.ics.uci.edu/dataset/320/student+performance)
 
 
 ### 5. fraud detection
 > anomaly detection, PCA (dataset)
-
 ___
 - [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
